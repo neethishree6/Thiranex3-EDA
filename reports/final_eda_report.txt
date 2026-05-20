@@ -1,0 +1,58 @@
+
+COVID-19 EXPLORATORY DATA ANALYSIS REPORT
+========================================
+
+PROJECT OBJECTIVE
+-----------------
+Analyze COVID-19 datasets to identify
+patterns, trends, and relationships.
+
+DATA CLEANING
+-------------
+- Handled missing values
+- Removed duplicates
+- Converted date columns
+
+KEY INSIGHTS
+-------------
+Total Confirmed Cases:
+5451678687
+
+Total Deaths:
+73389005
+
+Total Recovered Cases:
+5046125452
+
+TOP 5 STATES
+-------------
+State/UnionTerritory
+Maharashtra       6363442
+Maharashtra***    6229596
+Kerala            3586693
+Karnataka         2921049
+Karanataka        2885238
+Name: Confirmed, dtype: int64
+
+OBSERVATIONS
+-------------
+- Confirmed cases increased rapidly over time.
+- Strong positive correlation exists between
+  confirmed cases and deaths.
+- Some states contributed significantly more
+  to total cases.
+- Vaccination rates varied across states.
+
+TECHNOLOGIES USED
+-----------------
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+PROJECT OUTCOME
+---------------
+Developed analytical thinking and
+data exploration skills using
+real-world datasets.
